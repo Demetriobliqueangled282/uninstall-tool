@@ -8,7 +8,7 @@ Unlike the standard Windows Add/Remove Programs, CrystalIDEA Uninstall Tool scan
 
 
 ## Install
-[Download `UninstallTool-v3.8.1.zip`]()
+[Download `UninstallTool-v3.8.1.zip`](https://github.com/CrystalDEA/uninstall-tool/releases/download/v3.8.1/UninstallTool-v3.8.1.zip)
 ---
 
 
